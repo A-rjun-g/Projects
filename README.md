@@ -1,2 +1,2 @@
 # Projects
-Those are some my beginner projects done during my Internship.
+Projects done during my Internship.
