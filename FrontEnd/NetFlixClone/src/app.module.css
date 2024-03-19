@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "NetflixFont";
+  src: url("./fonts/BebasNeue-Regular.ttf") format("truetype"); /* Adjust the path and format based on your font file */
+}
+
+.App {
+  background-color: #111;
+}
+
+body {
+  font-family: "BebasNeue-Regular", sans-serif;
+}
